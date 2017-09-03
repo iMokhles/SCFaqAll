@@ -1,0 +1,2 @@
+# SCFaqAll
+just for FAQ :)
